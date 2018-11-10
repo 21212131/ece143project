@@ -1,0 +1,21 @@
+ECE 143 Project Proposal
+Group 4 - Arik Horodniceanu, Chi Zhang, Changhao Shi 
+
+    1. Topic: 
+Financial Career Consulting - Helping high-school students decide on career and college choices based on average graduate salaries.
+
+We are trying to answer 3 main questions. First, Which major pays the most, and how do the results differ over time? Second, Which geographical area pays the most? Is it more economic to go to a public school rather than private school? If time allowed we will rank schools based on Return on Investment (ROI). And build a content based school recommendation system based on student’s preferences.
+
+    2. DataSet:
+Link : https://www.kaggle.com/wsj/college-salaries
+There are 3 cvs files, namely degree vs salaries, region vs salaries, school vs salaries. There are 50 different majors, 4 region, 249 US schools.
+
+    3. Plan:
+Data cleaning and extracting.   -- 1 week 
+(Arik Horodniceanu)
+Data analysis and Pattern observation. -- 2 week 
+(Changhao Shi)
+Data visualization and content based recommendation -- 2 week
+(Arik Horodniceanu,  Chi Zhang)
+Preparing for the final presentation -- 1 week
+(Arik Horodniceanu,  Chi Zhang, Changhao Shi)
