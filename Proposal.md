@@ -19,19 +19,15 @@ There are 3 cvs files, namely degree vs salaries, region vs salaries, school vs 
 
 ## Plan
 Data cleaning and extracting.   -- 1 week 
-
 (Arik Horodniceanu)
 
 Data analysis and Pattern observation. -- 2 week 
-
 (Changhao Shi)
 
 Data visualization and content based recommendation -- 2 week
-
 (Arik Horodniceanu,  Chi Zhang)
 
 Preparing for the final presentation -- 1 week
-
 (Arik Horodniceanu,  Chi Zhang, Changhao Shi)
 
 
