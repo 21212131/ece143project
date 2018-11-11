@@ -11,7 +11,8 @@ We are trying to answer 3 main questions. First, Which major pays the most, and 
 We can sort the majors based on their corresponding start salaries. And plot the result in bar chart. As we also possess mid-career salaries. We will put those data on the same plot as well. Besides, for further analysis the distribution of mid-career salaries, we will provide a probability density distribution plot.
 ### Question 2: 
 We can plot a USA map, each state will be single pixel of a heat map. The brighter the color is, the higher the salary would be.
-### Question 3: We can make a table to list the pros and cons of public and private schools, followed by the data obtained from the dataset.  
+### Question 3: 
+We can make a table to list the pros and cons of public and private schools, followed by the data obtained from the dataset.  
 
 ## DataSet
 Link : https://www.kaggle.com/wsj/college-salaries
