@@ -16,7 +16,7 @@ We can make a table to list the pros and cons of public and private schools, fol
 
 ## DataSet
 Link : https://www.kaggle.com/wsj/college-salaries
-There are 3 cvs files, namely degree vs salaries, region vs salaries, school vs salaries. There are 50 different majors, 4 region, 249 US schools.
+There are 3 cvs files, namely degree vs salaries, region vs salaries, school vs salaries. There are 50 different majors, 5 regions, 249 US schools.
 
 ## Plan
 Data cleaning and extracting.   -- 1 week 
