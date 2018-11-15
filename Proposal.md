@@ -10,9 +10,9 @@ We are trying to answer 3 main questions. First, Which major pays the most, and 
 ### Question 1: 
 We can sort the majors based on their corresponding start salaries. And plot the result in bar chart. As we also possess mid-career salaries. We will put those data on the same plot as well. Besides, for further analysis the distribution of mid-career salaries, we will provide a probability density distribution plot.
 ### Question 2: 
-We can plot a USA map, each state will be single pixel of a heat map. The brighter the color is, the higher the salary would be.
+We can plot a USA map, each state will be single pixel of a heat map. The brighter the color is, the higher the salary would be. We will also show which region it is more profitable to go to school in.
 ### Question 3: 
-We can make a table to list the pros and cons of public and private schools, followed by the data obtained from the dataset.  
+We can make a table of salaries based on the type of school: State, Engineering, Party, Ivy League or Libral arts. Based on that, we would also make recommendations on the type of school.
 
 ## DataSet
 Link : https://www.kaggle.com/wsj/college-salaries
@@ -40,6 +40,4 @@ We need to clean and preprocessing the data. i.e.the data type for wages are str
 In the project, we will focus on the relations between different factors, such as the salaries of different career stages, the locations of the school, the type of school and the majors of the student. Due to the large amount and various types of our factors, it will be tricky to visualize the relations in an audience-friendly way.
 
 ### Interpretation:
-We need to be careful when we draw our conclusions from the dataset. There could be several problems. For example, how should we decide where it’s more worthwhile to go to college? Based on the visualizations we will decide on the appropriate methods.
-
-
+We need to be careful when we draw our conclusions from the dataset. There could be several problems. For example, how should we decide where it’s more worthwhile to go to college? Based on the visualizations we will decide on the appropriate methods. We may used regression models to interpret the data more analytically.
