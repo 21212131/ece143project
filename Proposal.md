@@ -34,7 +34,7 @@ Preparing for the final presentation -- 1 week
 
 ## Challenges
 ### Data cleaning:
-We need to clean and preprocessing the data. i.e.the data type for wages are string, we need to use integer to rank and analysis the data. Also, because some labels are too subjective, like school types, we need to integrate it into the desired categories.
+We need to clean and preprocessing the data. i.e.the data type for wages are string, we need to use integer to rank and analysis the data. Also, because some labels are too subjective, like school types, we need to integrate it into the desired categories. We added labels of tuition and location by state manually, using http://phillips-scholarship.org/new-applicants/cost-of-college-list/ and Google.
 
 ### Visualization:
 In the project, we will focus on the relations between different factors, such as the salaries of different career stages, the locations of the school, the type of school and the majors of the student. Due to the large amount and various types of our factors, it will be tricky to visualize the relations in an audience-friendly way.
