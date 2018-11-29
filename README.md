@@ -8,4 +8,5 @@ To do:
 add mid career ROI plot to match start\midcareer salaries? 
 
 add size of dataset to presentations
+
 Clean up code, add comments and asserts?
