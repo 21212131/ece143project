@@ -7,7 +7,7 @@ The notebook file (ECE143_display.ipynb) is used to generate and display all the
 * plotly - above 3.4.1
 * scipy - above 1.1.0
 
-
+Just incase the gihub don't display the plotly graphs, you can use this [link](http://htmlpreview.github.io/?https://github.com/ChanghaoShih/ece143project/blob/master/ECE143_display.html) to view it directly 
 
 
 # ECE143 Project Proposal
