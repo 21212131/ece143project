@@ -1,11 +1,13 @@
 # ECE 143 Final Project
-The notebook file (ECE143_display.ipynb) is used to generate and display all the plots. The helper functions are grouped in python file (helper_functions). To run the result, please go through cells in the notebook. The description of this project is detailed in the proposal belong. To run the project, please make sure your machine has installed the following dependent libraries.
+The notebook file (ECE143_display.ipynb) is used to generate and display all the plots. The helper functions are grouped in python file (helper_functions). The generated images are stored in images folder. The data are stored in datasets folder. To run the result, please go through cells in the notebook. The description of this project is detailed in the proposal below. To run the project, please make sure your machine has installed the following dependent libraries.
 * Python - 3.6.7
 * numpy - above 1.15.3
 * seeborn - above 0.9.0
 * matplotlib - above 3.0.1
 * plotly - above 3.4.1
 * scipy - above 1.1.0
+
+
 
 
 # ECE143 Project Proposal
