@@ -2,12 +2,12 @@
 The notebook file (ECE143_display.ipynb) is used to generate and display all the plots. The helper functions are grouped in python file (helper_functions). The generated images are stored in images folder. The data are stored in datasets folder. To run the result, please go through cells in the notebook. The description of this project is detailed in the proposal below. To run the project, please make sure your machine has installed the following dependent libraries.
 * Python - 3.6.7
 * numpy - above 1.15.3
-* seeborn - above 0.9.0
+* seaborn - above 0.9.0
 * matplotlib - above 3.0.1
 * plotly - above 3.4.1
 * scipy - above 1.1.0
 
-Just incase the github don't display the plotly graphs, you can use this [link](http://htmlpreview.github.io/?https://github.com/ChanghaoShih/ece143project/blob/master/ECE143_display.html) to view it directly 
+Just in case the github doesn't display the plotly graphs, you can use this [link](http://htmlpreview.github.io/?https://github.com/ChanghaoShih/ece143project/blob/master/ECE143_display.html) to view it directly 
 
 
 # ECE143 Project Proposal
