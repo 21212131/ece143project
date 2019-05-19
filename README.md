@@ -11,7 +11,7 @@ Just in case the github doesn't display the plotly graphs, you can use this [lin
 
 
 # ECE143 Project Proposal
-  Group 4 - Arik Horodniceanu, Chi Zhang, Changhao Shi
+  Group 4 - Arik Horodniceanu, Zicong Zhang, Changhao Shi
   
 ## Topic
 Financial Career Consulting - Helping high-school students decide on career and college choices based on average graduate salaries.
@@ -38,10 +38,10 @@ Data analysis and Pattern observation. -- 2 week
 (Changhao Shi)
 
 Data visualization and content based recommendation -- 2 week
-(Arik Horodniceanu,  Chi Zhang)
+(Arik Horodniceanu,  Zicong Zhang)
 
 Preparing for the final presentation -- 1 week
-(Arik Horodniceanu,  Chi Zhang, Changhao Shi)
+(Arik Horodniceanu,  Zicong Zhang, Changhao Shi)
 
 
 ## Challenges
